@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: jekyll-theme-potato-hacker
-author: "<your_name>"
-email: "<your@mail>"
-description: A simple Jekyll theme based on potatoes and hackers
+title: MrOz1l's Blog
+author: "Ahmed Ismail"
+email: "ahmedozil100@gmail.com"
+description: Everything about Cyber Security write-ups and CTFs and Walkthroughs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ahmedozil.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -25,9 +25,9 @@ url: "https://ahmedozil.github.io/" # the base hostname & protocol for your site
 # ------------------------------------------------------------------------------
 # Useful links
 github_username: "<github_username>"
-facebook_username: "<facebook_username>"
-twitter_username: "<twitter_username>"
-linkedin_id: "<linkedin_id>"
+facebook_username: "AhmedOzil10"
+twitter_username: "MrOz1l"
+linkedin_id: "ahmed-ismail-38901168"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this
@@ -40,7 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/avatar.jpg"
-avatar_description: "My name is Popotato and I'm a HACKER."
+avatar_description: "My name is Ahmed Ismail and I'm a HACKER."
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
